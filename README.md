@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is a visual simulator of the **Round Robin** scheduling algorithm used in operating systems to manage processes. Developed in **Python** using the **PyQt5** library, this program provides an easy-to-use graphical interface where users can input process information such as **Arrival Time (AT)**, **Burst Time (BT)**, and the system's **Quantum**. 
+This is a visual simulator of the **Round Robin** scheduling algorithm used in operating systems to manage processes. Developed in **Python** using the **PyQt5** library, this program provides an easy-to-use graphical interface where users can input process information such as **Arrival Time (AT)**, **Burst Time (BT)**, and the system's **Quantum**.
+Author Brayan Julián Barrantes Medina. . 
 
 The simulator processes these inputs and displays the results in a table format, detailing each process's **Completion Time (CT)**, **Turnaround Time (TAT)**, **Waiting Time (WT)**, and **Normalized Turnaround Time (NTAT)**. Additionally, the program calculates and shows the **average waiting time** and **average TAT**.
 
