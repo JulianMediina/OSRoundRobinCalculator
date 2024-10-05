@@ -28,6 +28,6 @@ The simulator processes these inputs and displays the results in a table format,
    Clone this repository and ensure you have **Python 3** installed. You will also need to install **PyQt5** if it's not already installed.
 
    ```bash
-   git clone https://github.com/yourusername/round-robin-scheduler-simulator.git
+   git clone https://github.com/JulianMediina/OSRoundRobinCalculator.git
    cd round-robin-scheduler-simulator
    pip install PyQt5
