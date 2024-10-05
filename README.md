@@ -29,5 +29,4 @@ The simulator processes these inputs and displays the results in a table format,
 
    ```bash
    git clone https://github.com/JulianMediina/OSRoundRobinCalculator.git
-   cd round-robin-scheduler-simulator
    pip install PyQt5
